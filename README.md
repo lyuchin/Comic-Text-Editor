@@ -8,7 +8,7 @@ marked positions. The interface is in Traditional Chinese.
 
 ---
 
-漫畫創作者用的換對白小工具。在稿件上用紅框標出對白、綠 X 標出新文字位置，
+漫畫創作者用的換對白小工具。在備份的稿件上用紅框標出對白範圍、綠 X 標出新文字位置，
 工具會用 Claude Vision API 辨識框內文字（可再翻成英文），並產生 Photoshop 的 `.jsx` 腳本，
 自動在標記位置建立文字圖層。介面為繁體中文。
 
