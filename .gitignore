@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+*.jsx
+*_dialogue*.txt
+*_debug.jpg
